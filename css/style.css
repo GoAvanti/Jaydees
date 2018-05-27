@@ -24,13 +24,17 @@ padding-left: 0;
 padding-right: 0;  
 }
 
+.title1 {
+ color: #467340;
+}
 
 h5 { 
 margin-top: -5px;   
 font-size: 41px;  
 text-align: center;  
 list-style-type: none;     
- letter-spacing: 7px;  
+ letter-spacing: 7px; 
+color: yellow;    
 }
 
 .active {
@@ -65,13 +69,27 @@ color: #668B8B;
 font-size: 20px;
 }
 
+
+.bodytext {
+text-align: center;    
+}
+
+
+.social {
+text-align: center;    
+}
+
+
+
 /* This is your footer section*/
-.footer1{
-  display: inline-block;
+
+.footer1 {
+text-align: center;       
  font-family: 'Open Sans';
-    font-size: 12px;
+    font-size: 10px;
   color: #000000;
   letter-spacing: 2px;
+ 
 }
 
 .iframe-container{
