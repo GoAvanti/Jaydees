@@ -115,6 +115,10 @@ text-align: center;
   padding-right: 0;
 }
 
+.img-responsive {
+  width: 100%; display: block;   
+}
+
 /* This is your footer section*/
 
 
